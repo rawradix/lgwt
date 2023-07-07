@@ -1,4 +1,4 @@
-# lgwt
+# LGWT
 Learning Go with Tests
 
 ## Schedule
